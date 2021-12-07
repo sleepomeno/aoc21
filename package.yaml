@@ -27,6 +27,7 @@ dependencies:
 - megaparsec
 - containers
 - split
+- median-stream
 
 library:
   source-dirs: src
