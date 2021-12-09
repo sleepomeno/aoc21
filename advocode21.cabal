@@ -28,6 +28,9 @@ data-files:
     inputs/day7/sample.txt
     inputs/day8/input.txt
     inputs/day8/sample.txt
+    inputs/day8/sample2.txt
+    inputs/day9/input.txt
+    inputs/day9/sample.txt
 
 source-repository head
   type: git
@@ -40,6 +43,7 @@ library
       Day6
       Day7
       Day8
+      Day9
   other-modules:
       Paths_advocode21
   hs-source-dirs:
