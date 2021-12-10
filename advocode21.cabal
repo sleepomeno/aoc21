@@ -18,6 +18,8 @@ extra-source-files:
     README.md
     ChangeLog.md
 data-files:
+    inputs/day10/input.txt
+    inputs/day10/sample.txt
     inputs/day4/input.txt
     inputs/day4/sample.txt
     inputs/day5/input.txt
@@ -38,6 +40,7 @@ source-repository head
 
 library
   exposed-modules:
+      Day10
       Day4
       Day5
       Day6
