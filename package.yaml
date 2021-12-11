@@ -28,6 +28,7 @@ dependencies:
 - containers
 - split
 - median-stream
+- array
 
 library:
   source-dirs: src
