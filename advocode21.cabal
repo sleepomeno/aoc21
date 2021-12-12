@@ -23,6 +23,10 @@ data-files:
     inputs/day11/input.txt
     inputs/day11/sample.txt
     inputs/day11/sample2.txt
+    inputs/day12/input.txt
+    inputs/day12/sample.txt
+    inputs/day12/sample2.txt
+    inputs/day12/sample3.txt
     inputs/day4/input.txt
     inputs/day4/sample.txt
     inputs/day5/input.txt
@@ -45,6 +49,7 @@ library
   exposed-modules:
       Day10
       Day11
+      Day12
       Day4
       Day5
       Day6
