@@ -27,6 +27,10 @@ data-files:
     inputs/day12/sample.txt
     inputs/day12/sample2.txt
     inputs/day12/sample3.txt
+    inputs/day13/input.txt
+    inputs/day13/sample.txt
+    inputs/day13/sample2.txt
+    inputs/day13/sample3.txt
     inputs/day4/input.txt
     inputs/day4/sample.txt
     inputs/day5/input.txt
@@ -50,6 +54,7 @@ library
       Day10
       Day11
       Day12
+      Day13
       Day4
       Day5
       Day6
